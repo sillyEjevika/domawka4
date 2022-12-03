@@ -35,7 +35,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано "+peperPerPupil+ " листов бумаги");
 
         //Задача 4
-        System.out.println("Задача №4");
+        System.out.println("Задача 4");
         int bottles = 16;
         int minutes = 2;
         int productivityPerMinute = bottles/minutes;
